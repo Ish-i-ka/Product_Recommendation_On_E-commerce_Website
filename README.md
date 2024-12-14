@@ -1,4 +1,4 @@
-# Recommendation-System-Engine-for-Products-on-E-Commerce-Website
+# Recommendation-System-for-Products-on-E-Commerce-Website
 Machine Learning used to design system which recommend products to users based on various scenarios.
 
 A data driven recommendation system can assist a business improve user  experience on website and result in better customer acquisition and retention.
@@ -39,7 +39,9 @@ Recommendation Technique:
 Once a cluster is identified based on the user's search words, the recommendation system can display items from the corresponding product clusters based on the product descriptions.
 
 Summary:
-This recommendation engine supports  multiple scenarios. From a business setting up its e-commerce website for the first time and does not have user-item purchase/rating history to start with initally. This recommendation system will help the users get a good recommendation to start with and once the buyers have a purchased history, the recommendation engine can use the model based collaborative filtering technique.
+This recommendation system supports  multiple scenarios. From a business setting up its e-commerce website for the first time and does not have user-item purchase/rating history to start with initally. This recommendation system will help the users get a good recommendation to start with and once the buyers have a purchased history, the recommendation engine can use the model based collaborative filtering technique.
 
 
-
+Dataset Links:
+https://drive.google.com/file/d/1XAhGVrKOHZmVplK61uGXknSnxuB9TDJm/view?usp=drive_link
+https://drive.google.com/file/d/1ZMIhlccW8LMklc-g8FTZcQgaK1mYrqc_/view?usp=drive_link
