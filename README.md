@@ -1,4 +1,4 @@
-# Recommendation-System-for-Products-on-E-Commerce-Website
+# Product_Recommendation-System-for-E-Commerce-Website
 Machine Learning used to design system which recommend products to users based on various scenarios.
 
 A data driven recommendation system can assist a business improve user  experience on website and result in better customer acquisition and retention.
